@@ -5,13 +5,13 @@
   from "https://www.gstatic.com/firebasejs/11.1.0/firebase-auth.js";
 
   const firebaseConfig = {
-    apiKey: "AIzaSyAjtz35pEFQj-N9S0U0gV5k2rREw_T5aQU",
-    authDomain: "my-first-login-and-signu-5fe01.firebaseapp.com",
-    projectId: "my-first-login-and-signu-5fe01",
-    storageBucket: "my-first-login-and-signu-5fe01.firebasestorage.app",
-    messagingSenderId: "228356812998",
-    appId: "1:228356812998:web:f33ae7415ec9a73ec867c7",
-    measurementId: "G-286GNJZ5EQ"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
   const app = initializeApp(firebaseConfig);
   const auth = getAuth();
